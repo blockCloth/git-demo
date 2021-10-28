@@ -8,4 +8,4 @@ Hello Git!
 Hello Git!
 Hello Git!
 Hello Git!master Test!
-Hello Git!
+Hello Git! hot-fix Test!
